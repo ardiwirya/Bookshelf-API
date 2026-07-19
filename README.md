@@ -1,4 +1,4 @@
-# Bookshelf API
+# Bookshelf API 
 
 RESTful API untuk mengelola data buku (CRUD), dibangun sebagai submission kelas [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/academies/261) — Dicoding. Submission ini mendapat rating **5/5**.
 
